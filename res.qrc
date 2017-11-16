@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file alias="open">res/open_1874px_1200294_easyicon.net.png</file>
+        <file alias="save">res/Save_512px_1178562_easyicon.net.png</file>
+        <file alias="begin">res/Start_512px_1178731_easyicon.net.png</file>
+        <file alias="search">res/search_512px_1125707_easyicon.net.png</file>
+        <file alias="about">res/about.png</file>
+        <file alias="icon">res/ico128.ico</file>
+    </qresource>
+</RCC>
