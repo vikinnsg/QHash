@@ -2,9 +2,8 @@
 A Simple Gui Hash tool.
 
 QHASH开源绿色哈希计算工具
-发表评论
-QHASH简介
 
+QHASH简介:
 QHASH开源绿色哈希计算工具是本人使用qt写的简洁轻巧，功能强大的哈希计算工具，特色如下：
 
 
